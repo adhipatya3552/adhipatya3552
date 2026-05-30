@@ -34,14 +34,12 @@ const adhipatya = {
     "Python", "TypeScript", "Next.js",
     "LLMs", "Agentic AI", "scikit-learn"
   ],
-  skills: ["React", "JavaScript", "Flask", "APIs"],
   interests: [
     "Building AI-powered applications",
     "Machine Learning & Data Analytics",
     "Agentic AI & Automation",
     "Full-Stack Development"
   ],
-  currentlyBuilding: "LifeOS - Personal AI Life Agent",
   motto: "Build things that matter"
 };
 </code></pre>
