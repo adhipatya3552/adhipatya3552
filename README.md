@@ -59,7 +59,7 @@ const adhipatya = {
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 ### 🧠 [LifeOS — Personal AI Life Management Agent](https://github.com/adhipatya3552/LifeOS)
 > **Jan 2026 – Present** · `Next.js` · `TypeScript` · `OpenRouter AI` · `Auth0` · `Convex`
