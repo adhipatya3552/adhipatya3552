@@ -1,20 +1,17 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&text=Adhipatya%20Saxena&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20B.Tech%20Artificial%20Intelligence&descSize=16&descAlignY=57&descColor=c9d1d9" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=7C3AED&width=600&lines=Hey%2C+I'm+Adhipatya+!;AI+%26+Full-Stack+Developer;Building+Intelligent+Systems+%F0%9F%A4%96;LLMs+%7C+Agentic+AI+%7C+Machine+Learning;GPA+8.93+%7C+Jagran+Lakecity+University;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://github.com/adhipatya3552)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=7C3AED&width=600&lines=Hey%2C+I%27m+Adhipatya+!;AI+%26+Full-Stack+Developer;Building+Intelligent+Systems+%F0%9F%A4%96;LLMs+%7C+Agentic+AI+%7C+Machine+Learning;GPA+8.93+%7C+Jagran+Lakecity+University;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://github.com/adhipatya3552)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhipatya-saxena)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adhipatya3552)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhipatya.saxena@gmail.com)
 
-</div>
-
 ---
 
 <table>
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="60%">
+
 <pre><code>// About Me
 const adhipatya = {
   role: "AI & Full-Stack Developer",
@@ -30,17 +27,21 @@ const adhipatya = {
     "LLMs", "Agentic AI", "scikit-learn"
   ],
   interests: [
-    "AI-powered applications",
+    "Building AI-powered applications",
     "Machine Learning & Data Analytics",
     "Agentic AI & Automation",
     "Full-Stack Development"
   ],
   currentlyBuilding: "LifeOS - Personal AI Life Agent",
   motto: "Build things that matter"
-};</code></pre>
+};
+</code></pre>
+
 </td>
-<td valign="top" align="center" width="42%">
-<img src="https://media.giphy.com/media/xTkCTkU2FEfKByFP9m/giphy.gif" width="290"/>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/xTkCTkU2FEfKByFP9m/giphy.gif" width="280"/>
+
 </td>
 </tr>
 </table>
@@ -50,42 +51,42 @@ const adhipatya = {
 ## 🚀 Featured Projects
 
 ### 🧠 [LifeOS — Personal AI Life Management Agent](https://github.com/adhipatya3552/LifeOS)
-> **Jan 2026 – Present** &nbsp;·&nbsp; `Next.js` · `TypeScript` · `OpenRouter AI` · `Auth0` · `Convex`
+> **Jan 2026 – Present** · `Next.js` · `TypeScript` · `OpenRouter AI` · `Auth0` · `Convex`
 
 A full-stack **agentic AI assistant** that integrates Gmail, Google Calendar, and Google Drive with OAuth 2.0 authentication, streaming AI responses, and automated task execution via natural language prompts. No more juggling apps — just talk to it.
 
 ---
 
 ### 🏠 [AskProperty AI — Real Estate Chatbot](https://github.com/adhipatya3552/AskProperty-AI)
-> **Jun 2024 – Jan 2025** &nbsp;·&nbsp; `HTML` · `CSS` · `JavaScript` · `OpenRouter API` · `MySQL`
+> **Jun 2024 – Jan 2025** · `HTML` · `CSS` · `JavaScript` · `OpenRouter API` · `MySQL`
 
 An **AI-powered real estate chatbot** enabling natural language property search, instant LLM-based recommendations, visit scheduling, and MySQL-backed property management.
 
 ---
 
 ### 📈 [House Price Prediction Model](https://github.com/adhipatya3552/House-Price-Prediction-Model)
-> **2025** &nbsp;·&nbsp; `Python` · `scikit-learn` · `Pandas` · `NumPy` · `Streamlit`
+> **2025** · `Python` · `scikit-learn` · `Pandas` · `NumPy` · `Streamlit`
 
 End-to-end **ML pipeline** using Linear Regression & Random Forest with feature engineering, RMSE/R² evaluation, and a real-time Streamlit web interface for live house price predictions.
 
 ---
 
 ### 🔍 [SocialVerify — Fake ID Detection Platform](https://github.com/adhipatya3552/Social-Verify)
-> **Feb 2025 – May 2025** &nbsp;·&nbsp; `HTML` · `CSS` · `JavaScript` · `JSON` · `MySQL`
+> **Feb 2025 – May 2025** · `HTML` · `CSS` · `JavaScript` · `JSON` · `MySQL`
 
 A social media authenticity platform that generates structured **JSON audit reports** using behavior-pattern scoring, animated UI feedback, and MySQL data handling.
 
 ---
 
 ### 💰 [FinTrack — Smart Personal Finance Tracker](https://github.com/adhipatya3552/FinTrack)
-> **2025** &nbsp;·&nbsp; `HTML` · `TailwindCSS` · `JavaScript` · `Chart.js`
+> **2025** · `HTML` · `TailwindCSS` · `JavaScript` · `Chart.js`
 
 Responsive personal finance tracker with real-time **expense categorisation**, LocalStorage persistence, and interactive **Chart.js** visualisations for financial analysis.
 
 ---
 
 ### 🤖 [Trading Bot](https://github.com/adhipatya3552/Trading_Bot)
-> **2025** &nbsp;·&nbsp; `Python`
+> **2025** · `Python`
 
 Python CLI trading bot for **Binance Futures Testnet** supporting Market & Limit orders with input validation, logging, and automatic handling of exchange constraints.
 
@@ -130,15 +131,12 @@ Python CLI trading bot for **Binance Futures Testnet** supporting Market & Limit
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adhipatya3552&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&cache_seconds=86400&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhipatya3552&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&cache_seconds=86400" height="165"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=adhipatya3552&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&count_private=true&cache_seconds=86400" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhipatya3552&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&cache_seconds=86400" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=adhipatya3552&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="60%"/>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=adhipatya3552&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="60%"/>
 </div>
 
 ---
@@ -162,14 +160,10 @@ Python CLI trading bot for **Binance Futures Testnet** supporting Market & Limit
 
 ## 🔬 Research Interests
 
-`Artificial Intelligence` &nbsp;·&nbsp; `Machine Learning` &nbsp;·&nbsp; `Large Language Models` &nbsp;·&nbsp; `Agentic AI` &nbsp;·&nbsp; `Data Analytics` &nbsp;·&nbsp; `AI Automation`
+`Artificial Intelligence` · `Machine Learning` · `Large Language Models` · `Agentic AI` · `Data Analytics` · `AI Automation`
 
 ---
-
-<div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=adhipatya3552&color=7C3AED&style=for-the-badge&label=Profile+Views)](https://github.com/adhipatya3552)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
-
-</div>
