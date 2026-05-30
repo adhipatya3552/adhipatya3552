@@ -15,7 +15,6 @@
 <table>
 <tr>
 <td valign="top" width="58%">
-
 <pre><code>// About Me
 const adhipatya = {
   role: "AI & Full-Stack Developer",
@@ -31,7 +30,7 @@ const adhipatya = {
     "LLMs", "Agentic AI", "scikit-learn"
   ],
   interests: [
-    "Building AI-powered applications",
+    "AI-powered applications",
     "Machine Learning & Data Analytics",
     "Agentic AI & Automation",
     "Full-Stack Development"
@@ -39,7 +38,6 @@ const adhipatya = {
   currentlyBuilding: "LifeOS - Personal AI Life Agent",
   motto: "Build things that matter"
 };</code></pre>
-
 </td>
 <td valign="top" align="center" width="42%">
 <img src="https://media.giphy.com/media/xTkCTkU2FEfKByFP9m/giphy.gif" width="290"/>
@@ -133,11 +131,13 @@ Python CLI trading bot for **Binance Futures Testnet** supporting Market & Limit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adhipatya3552&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhipatya3552&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adhipatya3552&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&count_private=true&cache_seconds=86400" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhipatya3552&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&cache_seconds=86400" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=adhipatya3552&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="500"/>
+<br/><br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=adhipatya3552&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="60%"/>
 
 </div>
 
