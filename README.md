@@ -27,16 +27,14 @@
 const adhipatya = {
   role: "AI & Full-Stack Developer",
   education: {
-    degree: "B.Tech Artificial Intelligence",
-    university: "Jagran Lakecity University",
-    GPA: "8.93 / 10",
-    batch: "2024 - 2028"
+    B.Tech (AI): "Jagran Lakecity University (2024 - 2028)"
   },
   location: "Madhya Pradesh, India",
   techStack: [
     "Python", "TypeScript", "Next.js",
     "LLMs", "Agentic AI", "scikit-learn"
   ],
+  skills: ["React", "JavaScript", "Flask", "APIs"],
   interests: [
     "Building AI-powered applications",
     "Machine Learning & Data Analytics",
@@ -105,9 +103,7 @@ Python CLI trading bot for **Binance Futures Testnet** supporting Market & Limit
 
 ---
 
-<p align="center">
-  <strong>⚙️ Tech Stack</strong>
-</p>
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
 
@@ -135,12 +131,7 @@ Python CLI trading bot for **Binance Futures Testnet** supporting Market & Limit
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhipatya3552&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&cache_seconds=86400&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhipatya3552&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&cache_seconds=86400" height="165"/>
-</div>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=adhipatya3552&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="60%"/>
@@ -148,7 +139,7 @@ Python CLI trading bot for **Binance Futures Testnet** supporting Market & Limit
 
 ---
 
-## 📜 Certifications
+<h2 align="center">📜 Certifications</h2>
 
 [![Tata GenAI](https://img.shields.io/badge/Tata-GenAI%20Powered%20Data%20Analytics-9A4BFF?style=for-the-badge)](#)
 [![Tata Cybersecurity](https://img.shields.io/badge/Tata-Cybersecurity%20Analyst-6a5acd?style=for-the-badge)](#)
@@ -157,7 +148,7 @@ Python CLI trading bot for **Binance Futures Testnet** supporting Market & Limit
 
 ---
 
-## 🏆 Achievements & Extracurriculars
+<h2 align="center">🏆 Achievements & Extracurriculars</h2>
 
 - 🎓 **GPA 8.93 / 10** — B.Tech Artificial Intelligence, Jagran Lakecity University
 - 📚 **92.6%** — Higher Secondary Certificate (CISCE Board)
@@ -165,7 +156,7 @@ Python CLI trading bot for **Binance Futures Testnet** supporting Market & Limit
 
 ---
 
-## 🔬 Research Interests
+<h2 align="center">🔬 Research Interests</h2>
 
 `Artificial Intelligence` · `Machine Learning` · `Large Language Models` · `Agentic AI` · `Data Analytics` · `AI Automation`
 
