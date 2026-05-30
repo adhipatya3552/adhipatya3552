@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&text=Adhipatya%20Saxena&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20B.Tech%20Artificial%20Intelligence&descSize=16&descAlignY=57&descColor=c9d1d9" width="100%"/>
+![Software Dev on the Way](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4b0082,100:6a5acd&text=Adhipatya%20Saxena&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=7C3AED&width=600&lines=Hey%2C+I%27m+Adhipatya+!;AI+%26+Full-Stack+Developer;Building+Intelligent+Systems+%F0%9F%A4%96;LLMs+%7C+Agentic+AI+%7C+Machine+Learning;GPA+8.93+%7C+Jagran+Lakecity+University;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://github.com/adhipatya3552)
 
