@@ -1,11 +1,21 @@
 ![Software Dev on the Way](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4b0082,100:6a5acd&text=Adhipatya%20Saxena&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=7C3AED&width=600&lines=Hey%2C+I%27m+Adhipatya+!;AI+%26+Full-Stack+Developer;Building+Intelligent+Systems+%F0%9F%A4%96;LLMs+%7C+Agentic+AI+%7C+Machine+Learning;GPA+8.93+%7C+Jagran+Lakecity+University;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://github.com/adhipatya3552)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=7C3AED&width=600&lines=Hey%2C+I%27m+Adhipatya+!;AI+%26+Full-Stack+Developer;Building+Intelligent+Systems+%F0%9F%A4%96;LLMs+%7C+Agentic+AI+%7C+Machine+Learning;GPA+8.93+%7C+Jagran+Lakecity+University;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhipatya-saxena)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adhipatya3552)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhipatya.saxena@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/adhipatya-saxena" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
+  <a href="https://github.com/adhipatya3552" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:adhipatya.saxena@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
